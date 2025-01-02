@@ -6,7 +6,7 @@
 🚀 Passionnée par les chiffres et les insights, je cherche un poste de Data Analyst pour mettre à profit mes compétences et continuer à apprendre.
 🌟 Ma démarche : Appliquer mes nouvelles connaissances pour résoudre des problématiques concrètes et contribuer à des projets data ambitieux.
 
-📬 Curieux(se) de mon parcours ? Échangeons sur LinkedIn [LinkedIn](https://www.linkedin.com/in/zs%C3%A9no-fouopa-17708576/). 
+📬 Curieux(se) de mon parcours ? Échangeons sur [LinkedIn](https://www.linkedin.com/in/zs%C3%A9no-fouopa-17708576/). 
 
 <!--
 **zsenof/zsenoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
