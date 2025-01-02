@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Bienvenue sur mon GitHub !
+
+📊 En montée de compétences vers les métiers de la data, je suis actuellement en formation de Data Analyst à la Wild Code School.
+🔍 Vous trouverez ici mes projets, illustrant mes compétences en SQL, Python, Pandas, et visualisation de données.
+
+🚀 Passionnée par les chiffres et les insights, je cherche un poste de Data Analyst pour mettre à profit mes compétences et continuer à apprendre.
+🌟 Ma démarche : Appliquer mes nouvelles connaissances pour résoudre des problématiques concrètes et contribuer à des projets data ambitieux.
+
+📬 Curieux(se) de mon parcours ? Échangeons sur LinkedIn [LinkedIn](https://www.linkedin.com/in/zs%C3%A9no-fouopa-17708576/). 
 
 <!--
 **zsenof/zsenoF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
